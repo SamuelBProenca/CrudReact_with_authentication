@@ -55,7 +55,7 @@ h1{
 }
 
 #banner {
-  background-image: url('../public/bannerImg.jfif'); 
+  background-image: url('../public/imgBanner.png'); 
   background-repeat: no-repeat;
   width: 1150px;
   height: 400px;
